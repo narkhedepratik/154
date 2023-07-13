@@ -1,0 +1,16 @@
+<h3 class="text-center">Enter Student Details.</h3>
+<div class="m-5">
+ 
+    <label>Enter Name:-</label>
+    <input type="text" [(ngModel)]="service.stu.name">
+    <pre></pre>
+    <label>Enter Marks:-</label>
+    <input type="text" [(ngModel)]="service.stu.marks">
+    <pre></pre>
+    <label>Enter Address:-</label>
+    <input type="text" [(ngModel)]="service.stu.address">
+    <pre></pre>
+    <div style="margin-left: 150px;">
+       <button type="button" class="btn btn-success" (click)="onSubmit(service.stu)" >SUBMIT</button>
+    </div>
+</div>

@@ -1,0 +1,46 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "Abc",
+      "marks": 88.9,
+      "address": "pune"
+    },
+    {
+      "id": 2,
+      "name": "Pqr",
+      "marks": 34.87,
+      "address": "karvenagr"
+    },
+    {
+      "id": 3,
+      "name": "Xyz",
+      "marks": 50.34,
+      "address": "Nashik"
+    },
+    {
+      "id": 4,
+      "name": "pratik narkhede",
+      "marks": "54.87",
+      "address": "Ruikhede"
+    },
+    {
+      "id": 5,
+      "name": "Komal",
+      "marks": "45.98",
+      "address": "karvenagar"
+    },
+    {
+      "id": 6,
+      "name": "sumit",
+      "marks": "79.87",
+      "address": "Buldhan"
+    },
+    {
+      "id": 7,
+      "name": "tushar badhe",
+      "marks": "80.67",
+      "address": "Karvenagar"
+    }
+  ]
+}
